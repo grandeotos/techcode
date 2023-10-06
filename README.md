@@ -13,7 +13,8 @@ I will use this repo to store the codes and the descriptions of the algorithms t
 
 ## Progress
 
-| Problem                                                               | Status | Start Date | End Date   |
-| --------------------------------------------------------------------- | ------ | ---------- | ---------- |
-| [Two Sum](https://leetcode.com/problems/two-sum/)                     | [x]    | 03/10/2023 | 04/10/2023 |
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [ ]    | 04/10/2023 | N/A        |
+| Problem                                                                         | Status | Start Date | End Date   |
+| ------------------------------------------------------------------------------- | ------ | ---------- | ---------- |
+| [Two Sum](https://leetcode.com/problems/two-sum/)                               | [x]    | 03/10/2023 | 04/10/2023 |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)           | [x]    | 04/10/2023 | 05/10/2023 |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [x]    | 05/10/2023 | N/A        |
